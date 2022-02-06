@@ -2,13 +2,10 @@
 
 ----- NOT CURRENTLY IN DEVELOPMENT ----- <br />
 
+*NOTE: This might be out of date due to the dynamic changes of the web interface*
+
 Instagram Cookies? Check out the video [here!](https://www.youtube.com/watch?v=K5I3BGHG33Y)
 
 This is a bot that will like, follow any post given a hash value <br />
 
-Overall Objective: Maximize amount of followers on this bot account <br />
-  - Needs random comments
-  - Needs Database for people that bot follows
-  - Needs unfollow all or X amount function
-  - Needs random key values
-  - Create a Cron enabler to get on some random page and follow random people
+'''ss'''
