@@ -13,7 +13,7 @@ This is a bot that will like and follow any post given a hash value <br />
 # Requirements:
 ```
 Instagram Account
-Secret.txt file (Username/Password)
+Secret.txt (Username/Password)
 cookies.json
 tags.txt
 ```
