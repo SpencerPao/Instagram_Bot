@@ -8,4 +8,15 @@ Instagram Cookies? Check out the video [here!](https://www.youtube.com/watch?v=K
 
 This is a bot that will like, follow any post given a hash value <br />
 
-'''ss'''
+# Requirements:
+```
+Instagram Account
+Secret.txt file (Username/Password)
+cookies.json
+tags.txt
+```
+
+# Run
+```
+python IG_ME.py
+```
