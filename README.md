@@ -12,7 +12,7 @@ This is a bot that will like and follow any post given a hash value <br />
 
 # Executables
 - IG_ME.py : Main executable for login attempt (using cookies), like, and follow requests.
-- IG_Bot.py : Experimental feature using public VPN (i.e masking IP) -- not in session due to too much traffic. 
+- IG_Bot.py : Experimental feature using public VPN (i.e masking IP with proxies) -- unsuccessful due to too much traffic. 
 
 # Requirements:
 ```
