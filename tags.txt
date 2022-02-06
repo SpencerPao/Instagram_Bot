@@ -1,0 +1,16 @@
+explore/tags/Tesla/
+explore/tags/dog/
+explore/tags/cat/
+explore/tags/creative/
+explore/tags/engineer/
+explore/tags/success/
+explore/tags/climbing/
+explore/tags/horse/
+explore/tags/rainbow/
+explore/tags/knockout/
+explore/tags/chess/
+explore/tags/soccer/
+explore/tags/football/
+explore/tags/USA/
+explore/tags/England/
+explore/tags/Wonder/
