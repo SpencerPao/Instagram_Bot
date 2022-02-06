@@ -8,7 +8,7 @@ This script(s) uses selenium. There are definitley many methods to do a **better
 
 Instagram Cookies? Check out the video [here!](https://www.youtube.com/watch?v=K5I3BGHG33Y)
 
-This is a bot that will like, follow any post given a hash value <br />
+This is a bot that will like and follow any post given a hash value <br />
 
 # Requirements:
 ```
